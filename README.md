@@ -1,4 +1,6 @@
-## 第1章　Pythonの基本
+## ProgrammingⅠ
+## 教科書 課題
+##  第1章　Pythonの基本
  - 1.1 Pythonとその特徴
  - 1.2 コードの実行方法
  - 第1章　Pythonの基本
@@ -71,4 +73,4 @@
  - 8.6 datetime
  - 8.7 json
  - 8.8 sqlite3
- - 8.9 decimal
+ - 8.9 decima
