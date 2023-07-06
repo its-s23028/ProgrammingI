@@ -1,1 +1,6 @@
-①
+a, a1 = divmod(23, 2)
+b, b2 = divmod(11, 2)
+c, c3 = divmod(5, 2)
+d, d4 = divmod(2, 2)
+e, e5 = divmod(1, 2)
+print(e5, d4, c3, b2, a1)
